@@ -26,4 +26,4 @@ This is a simple Tic-Tac-Toe game developed using Python's `tkinter` library. It
 # Screenshots
 
 ## GUI 
-![Screenshot 1](images/s2.png) ![Screenshot 1](images/s3.png) ![Screenshot 1](images/s4.png) ![Screenshot 1](images/s5.png)![Screenshot 1](images/s6.png)
+![Screenshot 1](images/s1.png) ![Screenshot 1](images/s2.png) ![Screenshot 1](images/s3.png) ![Screenshot 1](images/s4.png)![Screenshot 1](images/s5.png)
